@@ -1,0 +1,15 @@
+{
+  "bot_name": "EthioFarmer Bot",
+  "commission_per_job": 10.0,
+  "referral_percent": 10,
+  "min_withdrawal": 20.0,
+  "hold_days": 1,
+  "last_hold_transfer": null,
+  "total_users": 1,
+  "total_earned": 0.0,
+  "total_withdrawn": 0.0,
+  "total_jobs": 0,
+  "created_at": "2026-01-20T22:03:13.807255",
+  "daily_bonus": 5.0,
+  "welcome_bonus": 5.0
+}

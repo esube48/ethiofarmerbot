@@ -1,0 +1,11 @@
+{
+  "TXN202601202203303594": {
+    "id": "TXN202601202203303594",
+    "user_id": 7343312321,
+    "amount": 5.0,
+    "type": "welcome_bonus",
+    "description": "Welcome bonus",
+    "timestamp": "2026-01-20T22:03:30.031312",
+    "status": "completed"
+  }
+}
